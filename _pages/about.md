@@ -25,8 +25,6 @@ My research interests focus on **Computer Vision**, **Operating System Security*
 
 Here is my [CV](../assets/pdf/CV.pdf).
 
-Here is my [Note](note.thorin215-wang.com)
+Here is [Course](http://ps_23fall.thorin215-wang.com)
 
-Here is [Course](ps_23fall.thorin215-wang.com)
-
-Here is my [Blog](blog.thorin215-wang.com)
+Here is my [Blog](http://blog.thorin215-wang.com)
