@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thorin215-wang.com//sitemap.xml
+Sitemap: https://chunwang.site//sitemap.xml
