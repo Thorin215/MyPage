@@ -25,6 +25,3 @@ My research interests focus on **Multimodal**.
 
 <!--Here is my [CV](../assets/pdf/CV.pdf).-->
 
-Here is [Course](http://note.chunwang.site)
-
-Here is my [Blog](http://blog.chunwang.site)
