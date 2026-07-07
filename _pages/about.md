@@ -19,12 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Chun Wang(王淳 in Chinese), a second-year undergraduate majoring in Computer Science and Technology at [Turing Class, Chu Kochen Honors College, Zhejiang University](http://www.cs.zju.edu.cn/turingclass_en/). I am expected to graduate in 2026.
+I am Chun Wang(王淳 in Chinese), B.Eng in Computer Science at [Turing Class, Chu Kochen Honors College, Zhejiang University](http://www.cs.zju.edu.cn/turingclass_en/). 
 
-My research interests focus on **Computer Vision**, **Operating System Security** and **computer architecture**. 
+My research interests focus on **Multimodal**.
 
-Here is my [CV](../assets/pdf/CV.pdf).
+<!--Here is my [CV](../assets/pdf/CV.pdf).-->
 
-Here is [Course](http://note.thorin215-wang.com)
+Here is [Course](http://note.chunwang.site)
 
-Here is my [Blog](http://blog.thorin215-wang.com)
+Here is my [Blog](http://blog.chunwang.site)
